@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a2718221bf074e7429b712d6e971bcb4
+guid: d159facb94921a448bb9d7212f043a33
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FlappyBird_0
+      name: FlappyBird (1)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,20 +131,20 @@ TextureImporter:
         width: 144
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b67b6e26746369d40af57f1b879920d9
-      internalID: 123125360
+      spriteID: 4c8acdd8d66b2cb4995c6efa447a6c44
+      internalID: 1025126248
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_1
+      name: FlappyBird (1)_1
       rect:
         serializedVersion: 2
         x: 146
@@ -152,20 +152,20 @@ TextureImporter:
         width: 144
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f964155519885654fbb1a6baeca7ba2f
-      internalID: 663472431
+      spriteID: 2321edc839b1f2d44b3fdef4edd117ce
+      internalID: -1219456541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_2
+      name: FlappyBird (1)_2
       rect:
         serializedVersion: 2
         x: 292
@@ -173,20 +173,20 @@ TextureImporter:
         width: 168
         height: 56
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7ea056a4dd5279469eccccdad0c251e
-      internalID: 28114815
+      spriteID: 996497d4e62a83d46bc0041647efb8c5
+      internalID: -514913359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_3
+      name: FlappyBird (1)_3
       rect:
         serializedVersion: 2
         x: 465
@@ -194,20 +194,20 @@ TextureImporter:
         width: 31
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92b81412e3fa31041be071f1389c0321
-      internalID: 689751173
+      spriteID: 4c9ef7363468a3f4caaca6f2e55c62c1
+      internalID: -168044571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_4
+      name: FlappyBird (1)_4
       rect:
         serializedVersion: 2
         x: 502
@@ -215,20 +215,20 @@ TextureImporter:
         width: 7
         height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 727a3eef18a18614fa072c94194dbfca
-      internalID: -2105545624
+      spriteID: 68ab534bd5ad57b46b297cc3d8dd3c61
+      internalID: 1840392512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_5
+      name: FlappyBird (1)_5
       rect:
         serializedVersion: 2
         x: 502
@@ -236,20 +236,20 @@ TextureImporter:
         width: 7
         height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94e72a4ad2932754e9d1d91f378353c9
-      internalID: -899295459
+      spriteID: 74f17154036aacf40a2871fc0bba70ee
+      internalID: 76571123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_6
+      name: FlappyBird (1)_6
       rect:
         serializedVersion: 2
         x: 462
@@ -257,20 +257,20 @@ TextureImporter:
         width: 40
         height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a75eb6546baacd4a88ba26a18d8029c
-      internalID: 406066023
+      spriteID: d5f67dd230f860647903b78125f886b7
+      internalID: -172367117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_7
+      name: FlappyBird (1)_7
       rect:
         serializedVersion: 2
         x: 505
@@ -278,20 +278,20 @@ TextureImporter:
         width: 7
         height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e958d157f096cde42bc650bd2ddb9450
-      internalID: -1019955255
+      spriteID: 8b2df4fffc50d4642a806a78dff6f302
+      internalID: 963075976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_8
+      name: FlappyBird (1)_8
       rect:
         serializedVersion: 2
         x: 462
@@ -299,20 +299,20 @@ TextureImporter:
         width: 40
         height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cca5c8ffb57248441a351fb0bf1c0624
-      internalID: -1304979255
+      spriteID: e135ff36b1f63824c90ed617bdf0eb02
+      internalID: 1328479226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_9
+      name: FlappyBird (1)_9
       rect:
         serializedVersion: 2
         x: 505
@@ -320,20 +320,20 @@ TextureImporter:
         width: 7
         height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52d43c6151f1ba34cbed7420472d4cd1
-      internalID: -1627545588
+      spriteID: b0d164deebd7dc548b7dc0ce6eb4ba9b
+      internalID: -925255577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_10
+      name: FlappyBird (1)_10
       rect:
         serializedVersion: 2
         x: 295
@@ -341,20 +341,20 @@ TextureImporter:
         width: 32
         height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 989a0b8aeb5be864f92d14734a888864
-      internalID: -1871206220
+      spriteID: 50a423a47ebe6f845b09a0d269e6bd16
+      internalID: -1627598967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_11
+      name: FlappyBird (1)_11
       rect:
         serializedVersion: 2
         x: 329
@@ -362,20 +362,20 @@ TextureImporter:
         width: 58
         height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8217a4cd3bce251409863a4a3288db30
-      internalID: 1705510912
+      spriteID: d2058985dff24bb48a386a8315f5574c
+      internalID: -1642741555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_12
+      name: FlappyBird (1)_12
       rect:
         serializedVersion: 2
         x: 395
@@ -383,20 +383,20 @@ TextureImporter:
         width: 49
         height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffe5b807a6c1c7b418077f0e0b441638
-      internalID: 2091686084
+      spriteID: 6a920ae05fb2f2e4a954969ba39807f1
+      internalID: 994542779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_13
+      name: FlappyBird (1)_13
       rect:
         serializedVersion: 2
         x: 449
@@ -404,20 +404,20 @@ TextureImporter:
         width: 42
         height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c67b92c69f5a9374ab86da58e65e9e05
-      internalID: -566769839
+      spriteID: 5fc358c30f1420d4aa7369d56672322c
+      internalID: 1986671389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_14
+      name: FlappyBird (1)_14
       rect:
         serializedVersion: 2
         x: 496
@@ -425,20 +425,20 @@ TextureImporter:
         width: 12
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34eeccdf41eb29246bd1ebed693f9bcc
-      internalID: -528448517
+      spriteID: 70a7f7f53784ab5429e82ac680f5b1b3
+      internalID: 2084112730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_15
+      name: FlappyBird (1)_15
       rect:
         serializedVersion: 2
         x: 496
@@ -446,20 +446,20 @@ TextureImporter:
         width: 5
         height: 5
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24317e0be00ab8442b5f06bc23dc442d
-      internalID: 1913691724
+      spriteID: c3f84d26e527cba41a22982e4ee720d1
+      internalID: -84535189
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_16
+      name: FlappyBird (1)_16
       rect:
         serializedVersion: 2
         x: 312
@@ -467,20 +467,20 @@ TextureImporter:
         width: 17
         height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 115ccc684d72d5d4484ca0431102225b
-      internalID: -41424468
+      spriteID: 12c8236cd21266e409a79c9acfa8a80d
+      internalID: -886943316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_17
+      name: FlappyBird (1)_17
       rect:
         serializedVersion: 2
         x: 351
@@ -488,20 +488,20 @@ TextureImporter:
         width: 89
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa6ae4f8ba51c6241b787639d940a80f
-      internalID: 1746784233
+      spriteID: 35bf8ab972f0437498285c8b1b267a74
+      internalID: 44620596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_18
+      name: FlappyBird (1)_18
       rect:
         serializedVersion: 2
         x: 443
@@ -509,20 +509,20 @@ TextureImporter:
         width: 24
         height: 5
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7ad6834171951b46824fee74dc5a85b
-      internalID: 270022372
+      spriteID: 0c97734f5c9feb549b4deab4b363222a
+      internalID: -914964957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_19
+      name: FlappyBird (1)_19
       rect:
         serializedVersion: 2
         x: 468
@@ -530,20 +530,20 @@ TextureImporter:
         width: 4
         height: 5
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d7ec14fd75765d46af28d2be35027c7
-      internalID: -331636777
+      spriteID: 7a39c8882c33d61428dc8cb99f2c4e2f
+      internalID: 1785631682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_20
+      name: FlappyBird (1)_20
       rect:
         serializedVersion: 2
         x: 473
@@ -551,20 +551,20 @@ TextureImporter:
         width: 4
         height: 5
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de2d8f9f2ed001f4280f456cf1eb8463
-      internalID: -239071210
+      spriteID: c1711a5188f1a094daed3976254548ab
+      internalID: -1280650185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_21
+      name: FlappyBird (1)_21
       rect:
         serializedVersion: 2
         x: 478
@@ -572,20 +572,20 @@ TextureImporter:
         width: 4
         height: 5
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bde6247ea3611340bf56890468c6112
-      internalID: 1942803204
+      spriteID: a2481885f4b4824478e00d92d87089b8
+      internalID: -208556357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_22
+      name: FlappyBird (1)_22
       rect:
         serializedVersion: 2
         x: 487
@@ -593,20 +593,20 @@ TextureImporter:
         width: 4
         height: 5
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7532d5189ce778d459a7048ae046c7cd
-      internalID: -654859795
+      spriteID: 546601ee6d417434c95b5970ead52afb
+      internalID: -584565851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_23
+      name: FlappyBird (1)_23
       rect:
         serializedVersion: 2
         x: 492
@@ -614,20 +614,20 @@ TextureImporter:
         width: 7
         height: 5
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 524bccba0473c6744be48258d769bcb1
-      internalID: -1842603464
+      spriteID: e4a6a639d2e678643ab3910eddf0ead8
+      internalID: 1361852113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_24
+      name: FlappyBird (1)_24
       rect:
         serializedVersion: 2
         x: 500
@@ -635,20 +635,20 @@ TextureImporter:
         width: 4
         height: 5
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 206eb0c00538cb74592c29f4538680e2
-      internalID: -1674394402
+      spriteID: 676ec4190a6e4c343b74a7c2c4b700b0
+      internalID: 115690045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_25
+      name: FlappyBird (1)_25
       rect:
         serializedVersion: 2
         x: 310
@@ -656,20 +656,20 @@ TextureImporter:
         width: 5
         height: 6
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 294b628f4e02dbd458c7abddc693328c
-      internalID: -239572229
+      spriteID: 8bb4bc32b1dca3b4b86a38a87b11e812
+      internalID: 429236427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_26
+      name: FlappyBird (1)_26
       rect:
         serializedVersion: 2
         x: 316
@@ -677,20 +677,20 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8de12ecd9941abd46a4c5e4847dbb43c
-      internalID: -1071900229
+      spriteID: 05d47a9576704d148b39ba78d9eb171a
+      internalID: 777405066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_27
+      name: FlappyBird (1)_27
       rect:
         serializedVersion: 2
         x: 292
@@ -698,20 +698,20 @@ TextureImporter:
         width: 21
         height: 9
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33f88632928244048a808db4e7552f8c
-      internalID: 1331313480
+      spriteID: 7878cf92fad33544aaae82ba5ddd2b51
+      internalID: 673777059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_28
+      name: FlappyBird (1)_28
       rect:
         serializedVersion: 2
         x: 315
@@ -719,20 +719,20 @@ TextureImporter:
         width: 11
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86be992464cca514aae089b757deb81b
-      internalID: -1641004263
+      spriteID: 2565f4d7935e00d4d9e3156f334c2c65
+      internalID: -1205994031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_29
+      name: FlappyBird (1)_29
       rect:
         serializedVersion: 2
         x: 328
@@ -740,20 +740,20 @@ TextureImporter:
         width: 21
         height: 9
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5af6d1fbd8d746499ba0871032af0d1
-      internalID: -822010569
+      spriteID: 64f49718224bd5845a5353738e2a1b5f
+      internalID: 1062547501
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_30
+      name: FlappyBird (1)_30
       rect:
         serializedVersion: 2
         x: 354
@@ -761,20 +761,20 @@ TextureImporter:
         width: 52
         height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7718aa364f82ca4a8f5904028da9b55
-      internalID: -1044542956
+      spriteID: 116f7f10901b7354ba979fc045062cff
+      internalID: -43226889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_31
+      name: FlappyBird (1)_31
       rect:
         serializedVersion: 2
         x: 414
@@ -782,20 +782,20 @@ TextureImporter:
         width: 52
         height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1f04227fd6bda142beabe7676bf691e
-      internalID: -1182647880
+      spriteID: 84017e0587608a74eae95470a26ac5c5
+      internalID: -530291956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_32
+      name: FlappyBird (1)_32
       rect:
         serializedVersion: 2
         x: 292
@@ -803,20 +803,20 @@ TextureImporter:
         width: 40
         height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61164232d3949bf469877840c9f9e0c0
-      internalID: -135671935
+      spriteID: 395f67a102f3ec746b266e9f56d84357
+      internalID: -1529867812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_33
+      name: FlappyBird (1)_33
       rect:
         serializedVersion: 2
         x: 334
@@ -824,20 +824,20 @@ TextureImporter:
         width: 13
         height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fec275ccb684ce45b3206a77a7fee78
-      internalID: -874767233
+      spriteID: f81df442d4fd1ae438b6e937f13a317d
+      internalID: 555210158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_34
+      name: FlappyBird (1)_34
       rect:
         serializedVersion: 2
         x: 292
@@ -845,20 +845,20 @@ TextureImporter:
         width: 12
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bddbeff4755ca2540abddebf3f937633
-      internalID: 1350507291
+      spriteID: a09c84e1007856c4eafd790bdb7ea22d
+      internalID: -532704231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_35
+      name: FlappyBird (1)_35
       rect:
         serializedVersion: 2
         x: 306
@@ -866,20 +866,20 @@ TextureImporter:
         width: 12
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 389ac0ec1d1705047ae72e668059259d
-      internalID: 1476243853
+      spriteID: 5c08bd4cd2a67bb46b5f2e5e513b5c99
+      internalID: 1077938327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_36
+      name: FlappyBird (1)_36
       rect:
         serializedVersion: 2
         x: 320
@@ -887,20 +887,20 @@ TextureImporter:
         width: 12
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c09293b84a37b3479c37e8c807bb1a8
-      internalID: 515887953
+      spriteID: 9db157c876b50e84c8604c6060396170
+      internalID: 922575480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_37
+      name: FlappyBird (1)_37
       rect:
         serializedVersion: 2
         x: 334
@@ -908,20 +908,20 @@ TextureImporter:
         width: 12
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 902ae3b47b1ce814d9cb83cb1988053b
-      internalID: -38562806
+      spriteID: 9b94fabec25e8054192b6ec9df4f6d32
+      internalID: 862463529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_38
+      name: FlappyBird (1)_38
       rect:
         serializedVersion: 2
         x: 292
@@ -929,20 +929,20 @@ TextureImporter:
         width: 12
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d162eceb17b203c4da44b0bfe1172672
-      internalID: 1231260447
+      spriteID: 901e642426b45cb41b51c85878553ee1
+      internalID: 50392405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_39
+      name: FlappyBird (1)_39
       rect:
         serializedVersion: 2
         x: 306
@@ -950,20 +950,20 @@ TextureImporter:
         width: 12
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33219ffe3dcae754dbe0ce81908c23db
-      internalID: -164188356
+      spriteID: c79fa7e990836914f9d548e0d729f963
+      internalID: -1169028997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_40
+      name: FlappyBird (1)_40
       rect:
         serializedVersion: 2
         x: 320
@@ -971,20 +971,20 @@ TextureImporter:
         width: 12
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4302ff41693023c4b8dbf5874545d0ce
-      internalID: -375909671
+      spriteID: 9774b90d1c28f194b85bb2c7747165e5
+      internalID: 953569236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_41
+      name: FlappyBird (1)_41
       rect:
         serializedVersion: 2
         x: 334
@@ -992,20 +992,20 @@ TextureImporter:
         width: 12
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73d3e238380cd3749969f1ea10236aac
-      internalID: 1556436604
+      spriteID: 278b31ec31a10b8428127d75adc057fd
+      internalID: 1330373889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_42
+      name: FlappyBird (1)_42
       rect:
         serializedVersion: 2
         x: 292
@@ -1013,20 +1013,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4225c525c382e9745a74a144418be66b
-      internalID: -287838179
+      spriteID: d18c109831ca81449871584013edbcaf
+      internalID: -1128339234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_43
+      name: FlappyBird (1)_43
       rect:
         serializedVersion: 2
         x: 311
@@ -1034,20 +1034,20 @@ TextureImporter:
         width: 7
         height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 548f31dcaa17ebb4c8e9f6ff656a53c1
-      internalID: -1497513071
+      spriteID: ecda8264e6ab42842a966610d28c2276
+      internalID: 105723135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_44
+      name: FlappyBird (1)_44
       rect:
         serializedVersion: 2
         x: 292
@@ -1055,20 +1055,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01728c1399d18c6468d0d5d8850cb920
-      internalID: -317556785
+      spriteID: 108d9a91106214246876c2b6dd2b2b1f
+      internalID: -1029632241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_45
+      name: FlappyBird (1)_45
       rect:
         serializedVersion: 2
         x: 293
@@ -1076,20 +1076,20 @@ TextureImporter:
         width: 7
         height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38038cadd49fe364c8ce681d75b20eaf
-      internalID: 1985212481
+      spriteID: c801ac5286ad13a4196f8b8fd9fecba7
+      internalID: -1939050772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_46
+      name: FlappyBird (1)_46
       rect:
         serializedVersion: 2
         x: 3
@@ -1097,20 +1097,20 @@ TextureImporter:
         width: 113
         height: 57
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81b09eaa681df55448e30784946d864f
-      internalID: 247992307
+      spriteID: ed872080b047d244193f671d5f88d6fa
+      internalID: -583241619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_47
+      name: FlappyBird (1)_47
       rect:
         serializedVersion: 2
         x: 121
@@ -1118,20 +1118,20 @@ TextureImporter:
         width: 22
         height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03c939b71ca3dd24fa2a8e6e5bd0c3f5
-      internalID: 1834675231
+      spriteID: 84ce5a6ce80d34848a582837579222c9
+      internalID: 185455099
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_48
+      name: FlappyBird (1)_48
       rect:
         serializedVersion: 2
         x: 121
@@ -1139,20 +1139,20 @@ TextureImporter:
         width: 22
         height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d650c377ec19424eb6bbc26b60fc5c8
-      internalID: 1434410731
+      spriteID: ec3e379b68be64041b340998f71a70c8
+      internalID: 638979954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_49
+      name: FlappyBird (1)_49
       rect:
         serializedVersion: 2
         x: 121
@@ -1160,20 +1160,20 @@ TextureImporter:
         width: 13
         height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fe4bebbcf51dca428ef1ed7865c8444
-      internalID: -1482966300
+      spriteID: bf426ff507c68be4c86f7093453383c5
+      internalID: -356359401
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_50
+      name: FlappyBird (1)_50
       rect:
         serializedVersion: 2
         x: 137
@@ -1181,20 +1181,20 @@ TextureImporter:
         width: 7
         height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c96d61ca17408c41a144c5e773a5d1a
-      internalID: 79689361
+      spriteID: 09de12c0ae4002a4d8d98f2c033c2fdc
+      internalID: 1150999363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_51
+      name: FlappyBird (1)_51
       rect:
         serializedVersion: 2
         x: 0
@@ -1202,20 +1202,20 @@ TextureImporter:
         width: 26
         height: 160
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28350ab6560374142870b8eda890516f
-      internalID: 1745209399
+      spriteID: daa4af0d2416ccd468c1ce2910c1eb8a
+      internalID: -2076966796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_52
+      name: FlappyBird (1)_52
       rect:
         serializedVersion: 2
         x: 28
@@ -1223,20 +1223,20 @@ TextureImporter:
         width: 26
         height: 160
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 347891e61ffda1b4c9d3a89404e8d4b8
-      internalID: 1072642522
+      spriteID: 9514d54f71b60514985b564230726037
+      internalID: -1406720892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_53
+      name: FlappyBird (1)_53
       rect:
         serializedVersion: 2
         x: 56
@@ -1244,20 +1244,20 @@ TextureImporter:
         width: 26
         height: 160
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 220f6b2e6da3c24458c94a1f30be6ee5
-      internalID: 996529190
+      spriteID: a8dbe48589fb3c04fa6eaee4c824797f
+      internalID: 1471986517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_54
+      name: FlappyBird (1)_54
       rect:
         serializedVersion: 2
         x: 84
@@ -1265,20 +1265,20 @@ TextureImporter:
         width: 26
         height: 160
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 034177f98e331f14db92448d8365043f
-      internalID: -1626290439
+      spriteID: 7f66a67f4eac56d4283298e6f7ab1300
+      internalID: 789599058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_55
+      name: FlappyBird (1)_55
       rect:
         serializedVersion: 2
         x: 115
@@ -1286,20 +1286,20 @@ TextureImporter:
         width: 17
         height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d83d76e3083d97e4fa7be00d659f6bdf
-      internalID: 2015221412
+      spriteID: 19c54f149baca4b43b15d4e316fe11bd
+      internalID: -1428163174
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_56
+      name: FlappyBird (1)_56
       rect:
         serializedVersion: 2
         x: 138
@@ -1307,20 +1307,20 @@ TextureImporter:
         width: 6
         height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a268fa4ccb3b0ba47b22b78eeca4140b
-      internalID: -584281165
+      spriteID: 7eece346c63d59343b4d97a2b83b6c1f
+      internalID: -1482804493
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_57
+      name: FlappyBird (1)_57
       rect:
         serializedVersion: 2
         x: 115
@@ -1328,20 +1328,20 @@ TextureImporter:
         width: 17
         height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 746cf92832139904da230bfc364f5246
-      internalID: -718755310
+      spriteID: 5c8efa110682b2e4f9d45aa7479ffb37
+      internalID: -152130114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_58
+      name: FlappyBird (1)_58
       rect:
         serializedVersion: 2
         x: 138
@@ -1349,20 +1349,20 @@ TextureImporter:
         width: 6
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6dbe7d9898b5fcd42a35d1fbf4fea07e
-      internalID: 1405746810
+      spriteID: 7eba58f78e122094693dabe0344ddf66
+      internalID: -1512798738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_59
+      name: FlappyBird (1)_59
       rect:
         serializedVersion: 2
         x: 138
@@ -1370,20 +1370,20 @@ TextureImporter:
         width: 6
         height: 13
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c324f443eb3437c46bf164c0c051b1c3
-      internalID: 330615680
+      spriteID: 32098dbc2ee374b40b6b98721de99e9c
+      internalID: -864947124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_60
+      name: FlappyBird (1)_60
       rect:
         serializedVersion: 2
         x: 115
@@ -1391,41 +1391,20 @@ TextureImporter:
         width: 17
         height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 157f3759e725d2f4ab832e8a65184257
-      internalID: -1308137905
+      spriteID: 996ae1bb8546e254ca9a0b56f8844274
+      internalID: -1852913314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_61
-      rect:
-        serializedVersion: 2
-        x: 138
-        y: 130
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e034622d419d8994696d6b3da3923264
-      internalID: 986391942
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FlappyBird_62
+      name: FlappyBird (1)_61
       rect:
         serializedVersion: 2
         x: 138
@@ -1433,20 +1412,41 @@ TextureImporter:
         width: 6
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83225b412e5a6f64db148a91448174b1
-      internalID: 1946603975
+      spriteID: c9ecc3a558be0f649ab6349b9c4fbffd
+      internalID: 79881605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_63
+      name: FlappyBird (1)_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 121
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286f012725145f54188b3b985b0e428f
+      internalID: 1458893472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBird (1)_63
       rect:
         serializedVersion: 2
         x: 138
@@ -1454,20 +1454,20 @@ TextureImporter:
         width: 5
         height: 5
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 499cd5482938db1479b1d6d9621a4425
-      internalID: -1351745197
+      spriteID: 31307a983ea1a0346b048c60dbb4a1c8
+      internalID: -916818121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_64
+      name: FlappyBird (1)_64
       rect:
         serializedVersion: 2
         x: 115
@@ -1475,20 +1475,20 @@ TextureImporter:
         width: 17
         height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6754976249106684f9d8d726e281f89c
-      internalID: 1690415991
+      spriteID: b2f4a14662c17744287548c8eb6dafe5
+      internalID: 1294066613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_65
+      name: FlappyBird (1)_65
       rect:
         serializedVersion: 2
         x: 138
@@ -1496,20 +1496,20 @@ TextureImporter:
         width: 6
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf7025e23ef2f6140a0d8790bb86dcef
-      internalID: -1519900249
+      spriteID: 90892011c58623a46b28ec9ca4693e42
+      internalID: 1631548301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_66
+      name: FlappyBird (1)_66
       rect:
         serializedVersion: 2
         x: 138
@@ -1517,20 +1517,20 @@ TextureImporter:
         width: 6
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 639ef0adbb9e6224f95ef6e4c714ead6
-      internalID: 1945096122
+      spriteID: 583603633df24b645bdbd244f460810d
+      internalID: 1478781084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_67
+      name: FlappyBird (1)_67
       rect:
         serializedVersion: 2
         x: 115
@@ -1538,20 +1538,20 @@ TextureImporter:
         width: 17
         height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ba650df25e12ca4eaa0bd5da292e0b1
-      internalID: -1154588021
+      spriteID: d09005a66c36b2740b299ac993876117
+      internalID: -1521888434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_68
+      name: FlappyBird (1)_68
       rect:
         serializedVersion: 2
         x: 138
@@ -1559,20 +1559,20 @@ TextureImporter:
         width: 6
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9505c84be92335b40a6f308377e5b44c
-      internalID: -553410812
+      spriteID: ce31775af69da0c4a8e0e85d8443c43d
+      internalID: -1217020015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_69
+      name: FlappyBird (1)_69
       rect:
         serializedVersion: 2
         x: 138
@@ -1580,20 +1580,20 @@ TextureImporter:
         width: 6
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4261228644b27d1429d0c23e9fc81913
-      internalID: -244164573
+      spriteID: 6d9e493df30dd8d42a79e2dd9e973c76
+      internalID: -689201046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_70
+      name: FlappyBird (1)_70
       rect:
         serializedVersion: 2
         x: 112
@@ -1601,20 +1601,20 @@ TextureImporter:
         width: 22
         height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 575471024986c9b4abdbbc0164fb41d8
-      internalID: 1820019481
+      spriteID: c4dc44171649adb49920d023896d27eb
+      internalID: 605204760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_71
+      name: FlappyBird (1)_71
       rect:
         serializedVersion: 2
         x: 136
@@ -1622,20 +1622,20 @@ TextureImporter:
         width: 8
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2632697117675474e9a9ff5d05330837
-      internalID: -1381324787
+      spriteID: 8f8766c72431f634dbea8411025fdc80
+      internalID: -581146813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_72
+      name: FlappyBird (1)_72
       rect:
         serializedVersion: 2
         x: 112
@@ -1643,20 +1643,20 @@ TextureImporter:
         width: 22
         height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66e260139772aa1459d5b4ac69e00015
-      internalID: -1881592336
+      spriteID: b29b5b43023d2c140a31b2a8e8798005
+      internalID: 1350390793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_73
+      name: FlappyBird (1)_73
       rect:
         serializedVersion: 2
         x: 139
@@ -1664,20 +1664,20 @@ TextureImporter:
         width: 5
         height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 283346ecee1e8e14b95353e1ecd364d8
-      internalID: -1454634947
+      spriteID: c63b4b5975f5ad147ae6c7ff9db91be3
+      internalID: -1113800015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_74
+      name: FlappyBird (1)_74
       rect:
         serializedVersion: 2
         x: 3
@@ -1685,20 +1685,20 @@ TextureImporter:
         width: 17
         height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef0f336ebeb1058408dd5515965c158d
-      internalID: -352372612
+      spriteID: 7ca2421b687e41543bb244675d3ca177
+      internalID: -1962356969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_75
+      name: FlappyBird (1)_75
       rect:
         serializedVersion: 2
         x: 31
@@ -1706,20 +1706,20 @@ TextureImporter:
         width: 17
         height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07ddc88a4d138434ba2ed300f9a2220c
-      internalID: 288954028
+      spriteID: c095dd0e25288a64cb6720a5a6ab098c
+      internalID: -56779480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_76
+      name: FlappyBird (1)_76
       rect:
         serializedVersion: 2
         x: 59
@@ -1727,20 +1727,20 @@ TextureImporter:
         width: 17
         height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb7545f3094f6fa4b91f56cadfad454d
-      internalID: 208356945
+      spriteID: 3c914f70b9385234983b9f16f1d51a6c
+      internalID: -323227362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_77
+      name: FlappyBird (1)_77
       rect:
         serializedVersion: 2
         x: 87
@@ -1748,20 +1748,20 @@ TextureImporter:
         width: 17
         height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc179d8d5bdbffb41bcb703d965669f4
-      internalID: 1607740413
+      spriteID: d6eeebdf050f8534eb0998722ce44aef
+      internalID: -287583171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_78
+      name: FlappyBird (1)_78
       rect:
         serializedVersion: 2
         x: 137
@@ -1769,20 +1769,20 @@ TextureImporter:
         width: 7
         height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f427b6e8e123ab41b0699c736a66461
-      internalID: -1400042002
+      spriteID: 093b1adb028173d479f2e75c5b5be1bc
+      internalID: -1460007474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_79
+      name: FlappyBird (1)_79
       rect:
         serializedVersion: 2
         x: 112
@@ -1790,20 +1790,20 @@ TextureImporter:
         width: 16
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4c33f7d7793e6b4aae86b06ef203e61
-      internalID: -1048345464
+      spriteID: 2a8dd89a26c71354e946dafa5743fcd5
+      internalID: -1279298597
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FlappyBird_80
+      name: FlappyBird (1)_80
       rect:
         serializedVersion: 2
         x: 131
@@ -1811,14 +1811,14 @@ TextureImporter:
         width: 7
         height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c18e1c8257bccb49b5fd881abcb4615
-      internalID: 1393552934
+      spriteID: 32d5827f24d8cb04f9f5560a03b5060f
+      internalID: 1310952694
       vertices: []
       indices: 
       edges: []
@@ -1834,87 +1834,87 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      FlappyBird_0: 123125360
-      FlappyBird_1: 663472431
-      FlappyBird_10: -1871206220
-      FlappyBird_11: 1705510912
-      FlappyBird_12: 2091686084
-      FlappyBird_13: -566769839
-      FlappyBird_14: -528448517
-      FlappyBird_15: 1913691724
-      FlappyBird_16: -41424468
-      FlappyBird_17: 1746784233
-      FlappyBird_18: 270022372
-      FlappyBird_19: -331636777
-      FlappyBird_2: 28114815
-      FlappyBird_20: -239071210
-      FlappyBird_21: 1942803204
-      FlappyBird_22: -654859795
-      FlappyBird_23: -1842603464
-      FlappyBird_24: -1674394402
-      FlappyBird_25: -239572229
-      FlappyBird_26: -1071900229
-      FlappyBird_27: 1331313480
-      FlappyBird_28: -1641004263
-      FlappyBird_29: -822010569
-      FlappyBird_3: 689751173
-      FlappyBird_30: -1044542956
-      FlappyBird_31: -1182647880
-      FlappyBird_32: -135671935
-      FlappyBird_33: -874767233
-      FlappyBird_34: 1350507291
-      FlappyBird_35: 1476243853
-      FlappyBird_36: 515887953
-      FlappyBird_37: -38562806
-      FlappyBird_38: 1231260447
-      FlappyBird_39: -164188356
-      FlappyBird_4: -2105545624
-      FlappyBird_40: -375909671
-      FlappyBird_41: 1556436604
-      FlappyBird_42: -287838179
-      FlappyBird_43: -1497513071
-      FlappyBird_44: -317556785
-      FlappyBird_45: 1985212481
-      FlappyBird_46: 247992307
-      FlappyBird_47: 1834675231
-      FlappyBird_48: 1434410731
-      FlappyBird_49: -1482966300
-      FlappyBird_5: -899295459
-      FlappyBird_50: 79689361
-      FlappyBird_51: 1745209399
-      FlappyBird_52: 1072642522
-      FlappyBird_53: 996529190
-      FlappyBird_54: -1626290439
-      FlappyBird_55: 2015221412
-      FlappyBird_56: -584281165
-      FlappyBird_57: -718755310
-      FlappyBird_58: 1405746810
-      FlappyBird_59: 330615680
-      FlappyBird_6: 406066023
-      FlappyBird_60: -1308137905
-      FlappyBird_61: 986391942
-      FlappyBird_62: 1946603975
-      FlappyBird_63: -1351745197
-      FlappyBird_64: 1690415991
-      FlappyBird_65: -1519900249
-      FlappyBird_66: 1945096122
-      FlappyBird_67: -1154588021
-      FlappyBird_68: -553410812
-      FlappyBird_69: -244164573
-      FlappyBird_7: -1019955255
-      FlappyBird_70: 1820019481
-      FlappyBird_71: -1381324787
-      FlappyBird_72: -1881592336
-      FlappyBird_73: -1454634947
-      FlappyBird_74: -352372612
-      FlappyBird_75: 288954028
-      FlappyBird_76: 208356945
-      FlappyBird_77: 1607740413
-      FlappyBird_78: -1400042002
-      FlappyBird_79: -1048345464
-      FlappyBird_8: -1304979255
-      FlappyBird_80: 1393552934
-      FlappyBird_9: -1627545588
+      FlappyBird (1)_0: 1025126248
+      FlappyBird (1)_1: -1219456541
+      FlappyBird (1)_10: -1627598967
+      FlappyBird (1)_11: -1642741555
+      FlappyBird (1)_12: 994542779
+      FlappyBird (1)_13: 1986671389
+      FlappyBird (1)_14: 2084112730
+      FlappyBird (1)_15: -84535189
+      FlappyBird (1)_16: -886943316
+      FlappyBird (1)_17: 44620596
+      FlappyBird (1)_18: -914964957
+      FlappyBird (1)_19: 1785631682
+      FlappyBird (1)_2: -514913359
+      FlappyBird (1)_20: -1280650185
+      FlappyBird (1)_21: -208556357
+      FlappyBird (1)_22: -584565851
+      FlappyBird (1)_23: 1361852113
+      FlappyBird (1)_24: 115690045
+      FlappyBird (1)_25: 429236427
+      FlappyBird (1)_26: 777405066
+      FlappyBird (1)_27: 673777059
+      FlappyBird (1)_28: -1205994031
+      FlappyBird (1)_29: 1062547501
+      FlappyBird (1)_3: -168044571
+      FlappyBird (1)_30: -43226889
+      FlappyBird (1)_31: -530291956
+      FlappyBird (1)_32: -1529867812
+      FlappyBird (1)_33: 555210158
+      FlappyBird (1)_34: -532704231
+      FlappyBird (1)_35: 1077938327
+      FlappyBird (1)_36: 922575480
+      FlappyBird (1)_37: 862463529
+      FlappyBird (1)_38: 50392405
+      FlappyBird (1)_39: -1169028997
+      FlappyBird (1)_4: 1840392512
+      FlappyBird (1)_40: 953569236
+      FlappyBird (1)_41: 1330373889
+      FlappyBird (1)_42: -1128339234
+      FlappyBird (1)_43: 105723135
+      FlappyBird (1)_44: -1029632241
+      FlappyBird (1)_45: -1939050772
+      FlappyBird (1)_46: -583241619
+      FlappyBird (1)_47: 185455099
+      FlappyBird (1)_48: 638979954
+      FlappyBird (1)_49: -356359401
+      FlappyBird (1)_5: 76571123
+      FlappyBird (1)_50: 1150999363
+      FlappyBird (1)_51: -2076966796
+      FlappyBird (1)_52: -1406720892
+      FlappyBird (1)_53: 1471986517
+      FlappyBird (1)_54: 789599058
+      FlappyBird (1)_55: -1428163174
+      FlappyBird (1)_56: -1482804493
+      FlappyBird (1)_57: -152130114
+      FlappyBird (1)_58: -1512798738
+      FlappyBird (1)_59: -864947124
+      FlappyBird (1)_6: -172367117
+      FlappyBird (1)_60: -1852913314
+      FlappyBird (1)_61: 79881605
+      FlappyBird (1)_62: 1458893472
+      FlappyBird (1)_63: -916818121
+      FlappyBird (1)_64: 1294066613
+      FlappyBird (1)_65: 1631548301
+      FlappyBird (1)_66: 1478781084
+      FlappyBird (1)_67: -1521888434
+      FlappyBird (1)_68: -1217020015
+      FlappyBird (1)_69: -689201046
+      FlappyBird (1)_7: 963075976
+      FlappyBird (1)_70: 605204760
+      FlappyBird (1)_71: -581146813
+      FlappyBird (1)_72: 1350390793
+      FlappyBird (1)_73: -1113800015
+      FlappyBird (1)_74: -1962356969
+      FlappyBird (1)_75: -56779480
+      FlappyBird (1)_76: -323227362
+      FlappyBird (1)_77: -287583171
+      FlappyBird (1)_78: -1460007474
+      FlappyBird (1)_79: -1279298597
+      FlappyBird (1)_8: 1328479226
+      FlappyBird (1)_80: 1310952694
+      FlappyBird (1)_9: -925255577
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
